@@ -16,7 +16,7 @@ body {
     box-shadow: 5px 5px 15px 5px #000000;
     font-weight: bold;
     color: #F3D7DB;
-    
+    text-shadow: 0 0 3px #FF0000;
 }
 
 #input {
@@ -29,13 +29,11 @@ h3 {
 }
 
 h1 {
-    font-size: 33px;
+    font-size: 40px;
     text-align: center;
     font-family: 'DM Serif Text', serif;
     color: #8B0B0B;
     text-shadow: 1px 1px 2px black, 0 0 25px white, 0 0 5px pink;
-
-    
 }
 
 header p {
@@ -49,7 +47,7 @@ span {
 
 button {
     text-align: center;
-    margin: 20px;
+    margin: 30px;
     border-radius: 5px;
     border: none;
     background-image: linear-gradient(to right, #9E1313, #A29595);
