@@ -6,7 +6,7 @@ body {
 }
 
 #quiz {
-    background-image: url(d.jpeg);
+    background-image: url(div.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 30px;
@@ -15,6 +15,7 @@ body {
     -webkit-box-shadow: 5px 5px 15px 5px #000000;
     box-shadow: 5px 5px 15px 5px #000000;
     font-weight: bold;
+    color: #F3D7DB;
     
 }
 
@@ -31,7 +32,7 @@ h1 {
     font-size: 33px;
     text-align: center;
     font-family: 'DM Serif Text', serif;
-    color: #CA0303;
+    color: #8B0B0B;
     text-shadow: 1px 1px 2px black, 0 0 25px white, 0 0 5px pink;
 
     
@@ -43,7 +44,7 @@ header p {
 }
 
 span {
-    color: red;
+    color: #8B0B0B;
 }
 
 button {
@@ -51,7 +52,7 @@ button {
     margin: 20px;
     border-radius: 5px;
     border: none;
-    background-image: linear-gradient(to right, #D52D87, #69E5E9);
+    background-image: linear-gradient(to right, #9E1313, #A29595);
     color: white;
     padding: 15px 20px 15px 20px;
     font-size: 15px;
